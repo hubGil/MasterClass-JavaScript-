@@ -25,4 +25,4 @@ As seguintes ferramentas foram utilizadas:
 
 Feito com ❤️ por Gilmar dos Santos 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://www.linkedin.com/in/gil-santana-b2b18416b/)
+[![Linkedin Badge](https://img.shields.io/badge/-Gilmar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gil-santana-b2b18416b/)](https://www.linkedin.com/in/gil-santana-b2b18416b/)
