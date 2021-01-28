@@ -5,13 +5,13 @@
 ### Conteúdos Abordados
 
 - [x] Criação do READM
-- [] Introdução
-- [] Tipos de Dados
-- [] Objetos e Funções
-- [] Coleções
-- [] Classes e Módulos
-- [] Promises, Generators e Async/Await
-- [] Conclusão
+- [ ] Introdução
+- [ ] Tipos de Dados
+- [ ] Objetos e Funções
+- [ ] Coleções
+- [ ] Classes e Módulos
+- [ ] Promises, Generators e Async/Await
+- [ ] Conclusão
 
 ### 🛠 Tecnologias
 
