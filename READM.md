@@ -19,8 +19,6 @@ As seguintes ferramentas foram utilizadas:
 
 - [Node.js](https://nodejs.org/en/)
 
-### Autor
-
 ---
 
 Feito com ❤️ por Gilmar dos Santos 👋🏽 Entre em contato!
