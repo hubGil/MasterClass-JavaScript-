@@ -5,8 +5,7 @@
 ### Conteúdos Abordados
 
 - [x] Criação do READM
-- [ ] Introdução
-- [ ] Tipos de Dados
+- [x] Tipos de Dados
 - [ ] Objetos e Funções
 - [ ] Coleções
 - [ ] Classes e Módulos
