@@ -1,6 +1,9 @@
 <h1 align="center">Curso Master Class</h1>
 
-<p align="center">Curso de JavaScript, ministrado por Rodrigo Branas </p>
+<h3 align="center">Curso de JavaScript, ministrado por Rodrigo Branas.
+</h3>
+<p align="center"> Para maior compreensão e fixação do conteúdo, irei realizar o registro em README das aulas teóricas e realizar o conteúdo prático.
+</p>
 
 ### Conteúdos Abordados
 
