@@ -1,0 +1,12 @@
+let result = 10;
+console.log(`O resultado de result é: ${result}`);
+result += 2;
+console.log(`O resultado de result é: ${result}`);
+result -= 5;
+console.log(`O resultado de result é: ${result}`);
+result *= 8;
+console.log(`O resultado de result é: ${result}`);
+result /= 2;
+console.log(`O resultado de result é: ${result}`);
+result %= 6;
+console.log(`O resultado de result é: ${result}`);
