@@ -23,34 +23,38 @@ Alguns tipos de caracteres não são permitidos e precisam de ser escapados, exi
 > Curiosidade: Esses caracteres vem da época das máquinas de escrever
 
 <table>
-    <tr>
-        <td>Carectere de Controle</td>
-        <td>Descricao</td>
-    </tr>
-    <tr>
-        <td>\b</td>
-        <td>Backspace</td>
-    </tr>
-    <tr>
-        <td>\f</td>
-        <td>Form Feed</td>
-    </tr>
-    <tr>
-        <td>\n</td>
-        <td>New Line</td>
-    </tr>
-    <tr>
-        <td>\r</td>
-        <td>Carriege Return</td>
-    </tr>
-    <tr>
-        <td>\t</td>
-        <td>Horizontal</td>
-    </tr>
-    <tr>
-        <td>\v</td>
-        <td>Vertical Tabulator</td>
-    </tr>    
+    <thead>  
+        <tr>
+            <th scope="col">Carectere de Controle</th>
+            <th scope="col">Descricao</th>
+        </tr>
+    </thead>
+    <tbody >
+        <tr>
+            <td>\b</td>
+            <td>Backspace</td>
+        </tr>
+        <tr>
+            <td>\f</td>
+            <td>Form Feed</td>
+        </tr>
+        <tr>
+            <td>\n</td>
+            <td>New Line</td>
+        </tr>
+        <tr>
+            <td>\r</td>
+            <td>Carriege Return</td>
+        </tr>
+        <tr>
+            <td>\t</td>
+            <td>Horizontal</td>
+        </tr>
+        <tr>
+            <td>\v</td>
+            <td>Vertical Tabulator</td>
+        </tr>
+    </tbody>    
 </table>
 
 > É possível escrever caracteres utilizando seu code point no padrão Unicode
