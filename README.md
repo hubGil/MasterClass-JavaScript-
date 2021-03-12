@@ -9,7 +9,7 @@
 
 - [x] Criação do READM
 - [x] Introdução
-- [ ] Tipos de Dados
+- [X] Tipos de Dados
 - [ ] Objetos e Funções
 - [ ] Coleções
 - [ ] Classes e Módulos
