@@ -15,7 +15,7 @@ javaScript.paradigm = "OO"
 console.log(javaScript);
 console.log(javaScript.paradigm);
 console.log(javaScript.__proto__.paradigm);
-console.log(Object.getPrototypeOf(javaScript).paradigm);
+// console.log(Object.getPrototypeOf(javaScript).paradigm);
 
 for (let key in scheme){
   console.log(key, scheme.hasOwnProperty(key));
