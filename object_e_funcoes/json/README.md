@@ -4,6 +4,7 @@ JSON, ou JavaScript Object Notation, é um formato de intercâmbio de dados, der
 
 > Pra que serve o JSON ? Básicamente para troca de dados entre sistemas assim como XML
 
+> LEMBRE-SE - JSON e Object são dois conceitos completamente diferentes.
 <table> 
 
   <tbody>
@@ -13,7 +14,7 @@ JSON, ou JavaScript Object Notation, é um formato de intercâmbio de dados, der
     <tr>
       <td>Number</td>
     </tr>
-     <tr>
+     <td>
       <td>String</td>
     </tr>
      <tr>
