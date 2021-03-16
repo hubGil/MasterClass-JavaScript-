@@ -10,4 +10,4 @@ Para extrair os valores de um objeto é necessário refenciar a chave de cada um
 
 Também podemos referenciar as propriedades de objetos que estão dentro de outros objetos
 
-Podemos aplicar destructurin também nos parâmetros de uma função, tanto com arrays quanto com objetos.
+Podemos aplicar destructuring também nos parâmetros de uma função, tanto com arrays quanto com objetos.
