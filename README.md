@@ -10,7 +10,7 @@
 - [x] Criação do READM
 - [x] Introdução
 - [X] Tipos de Dados
-- [ ] Objetos e Funções
+- [X] Objetos e Funções
 - [ ] Coleções
 - [ ] Classes e Módulos
 - [ ] Promises, Generators e Async/Await
