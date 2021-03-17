@@ -1,2 +1,2 @@
-const frameworks = ["Angula.js", "Ember.js", "Vue.js",];
-frameworks.forEach
+const frameworks = ["Angular.js", "Ember.js", "Vue.js",];
+frameworks.forEach(framework =>  console.log(framework));

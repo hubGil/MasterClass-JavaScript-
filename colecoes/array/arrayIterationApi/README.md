@@ -34,7 +34,9 @@ Os Iteration methods quando invocados iteram sobre os elementos do array
     </tr>
     <tr>
       <td>reduce</td>
-      <td>Retorna um valor com base no retorno da função passada por parâmetro</td>
-    </tr>    
+      <td>
+        Retorna um valor com base no retorno da função passada por parâmetro
+      </td>
+    </tr>
   </tbody>
 </table>
