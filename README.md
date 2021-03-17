@@ -11,7 +11,7 @@
 - [x] Introdução
 - [X] Tipos de Dados
 - [X] Objetos e Funções
-- [ ] Coleções
+- [X] Coleções
 - [ ] Classes e Módulos
 - [ ] Promises, Generators e Async/Await
 - [ ] Conclusão
