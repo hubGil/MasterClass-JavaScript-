@@ -114,7 +114,7 @@ try {
   // console.log(database);
   // console.log(JSON.stringify(database, undefined, " "));
   // console.log(JSON.stringify(database.execute("select name, age from author where id = 1"), undefined, " "));
-  database.execute("delete from author where id = 2");
+  // database.execute("delete from author where id = 2");
   console.log(JSON.stringify(database.execute("select name, age from author"), undefined, " "));
 } catch (e){
   console.log(e.message);
