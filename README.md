@@ -12,7 +12,7 @@
 - [X] Tipos de Dados
 - [X] Objetos e Funções
 - [X] Coleções
-- [ ] Classes e Módulos
+- [X] Classes e Módulos
 - [ ] Promises, Generators e Async/Await
 - [ ] Conclusão
 
