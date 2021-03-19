@@ -24,7 +24,7 @@ As seguintes ferramentas foram utilizadas:
 
 ---
 
-![certificado](https://app.agilecode.com.br/api/public/certificates/62db3b71-0989-4d85-aa47-497e5b1825b9/share)
+![certificado](./assets/certificate.png)
 
 Feito com ❤️ por Gilmar dos Santos 👋🏽 Entre em contato!
 
