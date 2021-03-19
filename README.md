@@ -14,7 +14,7 @@
 - [X] Coleções
 - [X] Classes e Módulos
 - [X] Promises, Generators e Async/Await
-- [ ] Conclusão
+- [X] Conclusão
 
 ### 🛠 Tecnologias
 
@@ -23,6 +23,8 @@ As seguintes ferramentas foram utilizadas:
 - [Node.js](https://nodejs.org/en/)
 
 ---
+
+![certificado](https://app.agilecode.com.br/api/public/certificates/62db3b71-0989-4d85-aa47-497e5b1825b9/share)
 
 Feito com ❤️ por Gilmar dos Santos 👋🏽 Entre em contato!
 
