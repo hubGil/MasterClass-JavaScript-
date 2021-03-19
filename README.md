@@ -13,7 +13,7 @@
 - [X] Objetos e Funções
 - [X] Coleções
 - [X] Classes e Módulos
-- [ ] Promises, Generators e Async/Await
+- [X] Promises, Generators e Async/Await
 - [ ] Conclusão
 
 ### 🛠 Tecnologias
